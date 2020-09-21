@@ -7,3 +7,5 @@ Sample website with plenty of files for demos
 
 ## Deployment
 Everything related to deployment
+
+Adding some changes to analyze merge
