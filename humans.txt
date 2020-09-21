@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Anirban Majumdar Techinal Lead
 
 # THANKS
 
